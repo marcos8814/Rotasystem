@@ -1,0 +1,17 @@
+1 - INSTALAR e STARTAR o wampserver2.5-Apache-2.4.9-Mysql-5.6.17-php5.5.12-32b.
+
+2 - Acessar o http://localhost/phpmyadmin.
+3 - Criar uma Base de dados, com nome: rotasystem
+4 - Clicar na base rotasystem criada, e Importar o script do banco, dentro da pasta
+INSTALAÇÃO_BANCO_DADOS/rotasystem.sql
+5 - Executar a importação.
+6 - Verificar as tabelas criadas no banco.
+
+
+Acessando o Sistema.
+1 - Abra o navegador.
+2 - http://localhost/rotasystem/
+3 - Logar com o usuario: admin, senha: admin
+
+* Verificar as modificações que tenho que fazer.
+para finalizar o sistema.
